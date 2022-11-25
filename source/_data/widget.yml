@@ -1,0 +1,7 @@
+top:
+  - class_name: user-map
+    id_name: user-map
+    name: pv地图
+    icon: fab fa-skyatlas
+    order: 
+    html: '<script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5357b7o84qj&amp;m=2&amp;c=ff0000&amp;cr1=0006ff&amp;f=arial&amp;l=33" async="async"></script>'
