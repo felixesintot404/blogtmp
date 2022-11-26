@@ -683,7 +683,7 @@ aside:
       link: https://github.com/felixesintot
   card_announcement:
     enable: false
-    content: 本人很弱
+    content: 
   card_recent_post:
     enable: true
     limit: 5 # if set 0 will show all

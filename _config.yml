@@ -152,7 +152,7 @@ markdown:
     permalinkSymbol: ¶
 
 search:
-  path: search.json
+  path: search.xml
   field: post
-  format: html
   content: true
+  template:
