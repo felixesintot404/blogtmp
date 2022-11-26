@@ -36,7 +36,7 @@ copy:
 #   icon: link || the description
 social:
   fab fa-github: https://github.com/felixesintot || Github
-  fas fa-code: https://www.luogu.com.cn/user/289608 || Luogu
+  fas fa-user: https://www.luogu.com.cn/user/289608 || Luogu
   # fab fa-github: https://github.com/xxxxx || Github
   # fas fa-envelope: mailto:xxxxxx@gmail.com || Email
 
