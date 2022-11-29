@@ -302,8 +302,8 @@ livere:
 # https://github.com/gitalk/gitalk
 gitalk:
   enable: true
-  client_id: 1c1581fa2196cc5a228b
-  client_secret: 25cb897f2926f9cbda8176a052f7c6ebb7709447
+  client_id: 787ece24de3f32706bfc
+  client_secret: fb20f47b42d3bb73d6ae407fdb2bc2403b8e9e8c
   repo: gitalkku
   owner: felixesintot
   admin: felixesintot
