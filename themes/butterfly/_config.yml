@@ -435,7 +435,7 @@ footer:
   owner:
     enable: true
     since: 2020
-  custom_text: 使用Netlify加速
+  custom_text: 使用Vercel加速
   copyright: true # Copyright of theme and framework
 
 # Analysis
