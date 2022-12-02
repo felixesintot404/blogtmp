@@ -454,7 +454,7 @@ footer:
   owner:
     enable: true
     since: 2020
-  custom_text: 使用Vercel加速
+  custom_text: <div id="runtime"></div>
   copyright: true # Copyright of theme and framework
 
 # Analysis
@@ -910,6 +910,8 @@ inject:
     # - <link rel="stylesheet" href="XXXX.css">
     - <link rel="stylesheet" href="/css/mycss.css">
   bottom:
+    - <script src="https://cdn.jsdelivr.net/gh/xiabo2/CDN@latest/fishes.js"></script>
+    - <script src="/js/myjs.js?1"></script>
     # - <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.3/dist/contrib/mhchem.min.js" integrity="sha384-RTN08a0AXIioPBcVosEqPUfKK+rPp+h1x/izR7xMkdMyuwkcZCWdxO+RSwIFtJXN"  crossorigin="anonymous"></script>
     # - <script src="xxxx"></script>
 
