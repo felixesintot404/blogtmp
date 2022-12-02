@@ -702,7 +702,7 @@ aside:
       link: https://github.com/felixesintot
   card_announcement:
     enable: false
-    content: 
+    content: 推荐使用Gitalk（虽然本站也提供Waline）
   card_recent_post:
     enable: true
     limit: 5 # if set 0 will show all
