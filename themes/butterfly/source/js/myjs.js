@@ -1,7 +1,7 @@
 setInterval(() => {
     // let create_time = Math.round(new Date('2021-10-15 00:00:00').getTime() / 1000); //在此行修改建站时间
     // 有苹果用户发现safari浏览器不能正常运行，百度了一下发现是格式化的问题，改成下面这种应该就可以了。感谢反馈。
-    let create_time = Math.round(new Date('2021/10/15 00:00:00').getTime() / 1000); //在此行修改建站时间
+    let create_time = Math.round(new Date('2022/10/27 00:00:00').getTime() / 1000); //在此行修改建站时间
     let timestamp = Math.round((new Date().getTime()) / 1000);
     let second = timestamp - create_time;
     let time = new Array(0, 0, 0, 0, 0);
@@ -28,10 +28,10 @@ setInterval(() => {
     if (second >= 0) {
         time[4] = nol(second);
     }
-    let currentTimeHtml = ""
+    let currentTimeHtml = "felixesintot's blog已经苟了"
     if (time[0] != 0) {
-        currentTimeHtml += time[0] + ' YEAR '
+        currentTimeHtml += time[0] + '年'
     }
-    currentTimeHtml += time[1] + ' DAYS ' + time[2] + ' : ' + time[3] + ' : ' + time[4];
+    currentTimeHtml += time[1] + '天' + time[2] + '时' + time[3] + '分' + time[4]+'秒';
     document.getElementById("runtime").innerHTML = currentTimeHtml;
 }, 1000);
