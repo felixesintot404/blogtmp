@@ -120,15 +120,27 @@ category_per_img:
 
 cover:
   # display the cover or not (是否顯示文章封面)
-  index_enable: false
-  aside_enable: false
-  archives_enable: false
+  index_enable: true
+  aside_enable: true
+  archives_enable: true
   # the position of cover in home page (封面顯示的位置)
   # left/right/both
   position: both
   # When cover is not set, the default cover is displayed (當沒有設置cover時，默認的封面顯示)
   default_cover:
-    - /img/archive.jpg
+    - /img/altcover_0.jpg
+    - /img/altcover_1.jpg
+    - /img/altcover_2.jpg
+    - /img/altcover_3.jpg
+    - /img/altcover_4.jpg
+    - /img/altcover_5.jpg
+    - /img/altcover_6.jpg
+    - /img/altcover_7.jpg
+    - /img/altcover_8.jpg
+    - /img/altcover_9.jpg
+    - /img/altcover_10.jpg
+    - /img/altcover_11.jpg
+    - /img/altcover_12.jpg
 
 # Replace Broken Images (替換無法顯示的圖片)
 error_img:
