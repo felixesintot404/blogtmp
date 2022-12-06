@@ -283,7 +283,6 @@ comments:
   # Up to two comments system, the first will be shown as default
   # Choose: Disqus/Disqusjs/Livere/Gitalk/Valine/Waline/Utterances/Facebook Comments/Twikoo/Giscus/Remark42/Artalk
   use: 
-   - Gitalk
    - Waline
 	# Valine,Disqus
   text: true # Display the comment name next to the button
@@ -315,7 +314,7 @@ livere:
 # gitalk
 # https://github.com/gitalk/gitalk
 gitalk:
-  enable: true
+  enable: false
   client_id: 787ece24de3f32706bfc
   client_secret: fb20f47b42d3bb73d6ae407fdb2bc2403b8e9e8c
   repo: gitalkku
