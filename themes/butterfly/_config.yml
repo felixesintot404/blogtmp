@@ -712,8 +712,8 @@ aside:
       text: Follow Me
       link: https://github.com/felixesintot
   card_announcement:
-    enable: false
-    content: 
+    enable: true
+    content: 本人实在没心思为评论添加验证码，请各位文明
   card_recent_post:
     enable: true
     limit: 5 # if set 0 will show all
