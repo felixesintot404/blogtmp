@@ -130,6 +130,7 @@ markdown:
     - markdown-it-imsize
     - markdown-it-expandable
     - markdown-it-toc-done-right
+    - markdown-it-highlightjs
     - name: markdown-it-container
       options: success
     - name: markdown-it-container
