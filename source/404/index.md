@@ -1,8 +1,9 @@
 ---
-title: 你是从哪里点进来的呢?
+title: "404 Not Found"
 date: 2022-10-31 09:28:32
 permalink: /404.html
 top_img: /img/404page.jpg
+comments: false
 ---
 
 $$
@@ -11,4 +12,4 @@ $$
 
 # 对不起，你要找的页面不存在，TXT。
 
-> 若有疑问，请在下面回复
+> 若有疑问，请戳[这里](https://www.felixesintot.top/feedback)
