@@ -145,11 +145,11 @@ markdown:
         strict: false
         trust: true
   anchors:
-    # level: 1
-    # collisionSuffix: 'v'
-    # permalink: true
-    # permalinkClass: header-anchor
-    # permalinkSymbol: ¶
+    level: 1
+    collisionSuffix: 'v'
+    permalink: true
+    permalinkClass: header-anchor
+    permalinkSymbol: ¶
 
 search:
   path: search.xml
