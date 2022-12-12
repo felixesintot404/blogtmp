@@ -148,7 +148,7 @@ markdown:
     level: 1
     collisionSuffix: 'v'
     permalink: true
-    permalinkClass: header-anchor
+    permalinkClass: toc-link
     permalinkSymbol: ¶
 
 search:
