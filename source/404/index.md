@@ -12,4 +12,4 @@ $$
 
 # 对不起，你要找的页面不存在，TXT。
 
-> 若有疑问，请戳[这里](https://www.felixesintot.top/feedback)
+> 若有疑问，请戳[这里](/feedback)
