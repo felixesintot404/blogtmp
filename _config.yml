@@ -187,3 +187,8 @@ swiper:
 aplayer:
   meting: true
   asset_inject: false
+
+# https://github.com/viko16/hexo-permalink-pinyin
+permalink_pinyin:
+  enable: true
+  separator: '-' # default: '-'
