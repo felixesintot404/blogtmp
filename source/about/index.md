@@ -7,4 +7,4 @@ top_img: /img/about.jpg
 + 关于我，是个蒟蒻
 + luogu:[mushvase](https://www.luogu.com.cn/user/289608)
 + github:[felixesintot](https://github.com/felixesintot/)
-+ codeforces:[![](https://cfrating.ihcr.top/?user=felixesintot](https://codeforces.com/profile/felixesintot)
++ codeforces:[![](https://cfrating.ihcr.top/?user=felixesintot)](https://codeforces.com/profile/felixesintot)
