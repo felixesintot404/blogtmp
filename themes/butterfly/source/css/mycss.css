@@ -147,28 +147,28 @@ background: linear-gradient(to right, #EAECC6, #2BC0E4); /* W3C, IE 10+/ Edge, F
 }
 /*侧边栏页面*/
 #aside-content>.card-widget  {
-    background: rgba(255,255,255,.6);
+    background: rgba(255,255,255,.5);
 }
 #aside-content>.sticky_layout>.card-widget{
-    background: rgba(255,255,255,.6);
+    background: rgba(255,255,255,.5);
 }
 /*文章页面*/
 .layout>#post{
-    background: rgba(255,255,255,.6);
+    background: rgba(255,255,255,.5);
 }
 /*分类页面*/
 .layout>#page{
-    background: rgba(255,255,255,.6);
+    background: rgba(255,255,255,.5);
 }
 /*时间轴页面*/
 .layout>#archive{
-    background: rgba(255,255,255,.6);
+    background: rgba(255,255,255,.5);
 }
 
 .layout>#tag{
-    background: rgba(255,255,255,.6);
+    background: rgba(255,255,255,.5);
 }
 
 .layout>#category{
-    background: rgba(255,255,255,.6);
+    background: rgba(255,255,255,.5);
 }
