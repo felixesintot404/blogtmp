@@ -783,7 +783,7 @@ translate:
   msgToSimplifiedChinese: '簡'
 
 # Read Mode (閲讀模式)
-readmode: true
+readmode: false
 
 # dark mode
 darkmode:
