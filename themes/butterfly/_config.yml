@@ -444,7 +444,7 @@ daovoice:
 # gitter
 # https://gitter.im/
 gitter:
-  enable: true
+  enable: false
   room: felixesintot_chat/community
 
 # crisp
