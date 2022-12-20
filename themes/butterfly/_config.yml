@@ -923,7 +923,7 @@ inject:
     - <link rel="stylesheet" href="/css/vs2015.min.css">
     - <link rel="stylesheet" href="/css/mycss.css">
   bottom:
-    - <div class="aplayer no-destroy" data-id="7829012198" data-server="netease" data-type="playlist" data-fixed="true" data-autoplay="false"> </div>
+    - <div class="aplayer no-destroy" data-id="15345" data-server="netease" data-type="artist" data-fixed="true" data-autoplay="false"> </div>
     - <script src="/js/myjs.js?1"></script>
     # - <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.3/dist/contrib/mhchem.min.js" integrity="sha384-RTN08a0AXIioPBcVosEqPUfKK+rPp+h1x/izR7xMkdMyuwkcZCWdxO+RSwIFtJXN"  crossorigin="anonymous"></script>
     # - <script src="xxxx"></script>
