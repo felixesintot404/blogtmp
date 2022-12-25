@@ -187,10 +187,10 @@ index_post_content:
 # anchor
 anchor:
   button:
-    enable: false
-    always_show: false
-    icon: # the unicode value of Font Awesome icon, such as '\3423'
-  auto_update: false # when you scroll in post, the URL will update according to header id.
+    enable: true
+    always_show: true
+    icon: '\3423' # the unicode value of Font Awesome icon, such as '\3423'
+  auto_update: true # when you scroll in post, the URL will update according to header id.
 
 # Post
 # --------------------------------------
@@ -231,12 +231,12 @@ post_edit:
 
 # Related Articles
 related_post:
-  enable: true
+  enable: false
   limit: 6 # Number of posts displayed
   date_type: created # or created or updated 文章日期顯示創建日或者更新日
 
 # figcaption (圖片描述文字)
-photofigcaption: false
+photofigcaption: true
 
 # post_pagination (分頁)
 # value: 1 || 2 || false
