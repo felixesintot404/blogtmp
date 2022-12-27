@@ -884,8 +884,8 @@ pangu:
 lazyload:
   enable: true
   field: site # site/post
-  placeholder: 
-  blur: true
+  placeholder: /img/lding.gif
+  blur:
 
 # PWA
 # See https://github.com/JLHwung/hexo-offline
