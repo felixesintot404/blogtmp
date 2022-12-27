@@ -44,7 +44,8 @@
     "markdown-it-highlightjs": "^4.0.1",
     "markdown-it-imsize": "^2.0.1",
     "markdown-it-toc-done-right": "^4.2.0",
-    "true": "^0.0.4"
+    "true": "^0.0.4",
+    "vanilla-lazyload": "^17.8.3"
   },
   "main": "index.js",
   "keywords": [],
