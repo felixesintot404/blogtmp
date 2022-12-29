@@ -4,4 +4,6 @@ date: 2022-12-08 21:53:50
 type: "feedback"
 top_img: false
 ---
-> 本页为404反馈贴。
+{% note flat info %}
+本页为404反馈贴。
+{% endnote %}
