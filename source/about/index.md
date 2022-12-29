@@ -10,5 +10,5 @@ top_img: /img/about.jpg
 > github:[![](https://img.shields.io/badge/github-felixesintot-blueviolet)](https://github.com/felixesintot/)
 > codeforces:[![](https://img.shields.io/badge/codeforces-felixesintot-blue)](https://codeforces.com/profile/felixesintot)
 # 关于图片
-本站主页随机图片来自[这里](https://picsum.photos)  
-其余所有图片来自bing壁纸，其中文章cover每19篇循环一次
+本站的所有随机图片来自[这里](https://picsum.photos)  
+其余所有图片来自bing壁纸
