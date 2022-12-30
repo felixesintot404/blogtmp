@@ -127,7 +127,30 @@ cover:
   position: both
   # When cover is not set, the default cover is displayed (當沒有設置cover時，默認的封面顯示)
   default_cover:
-    - /img/world.jpg
+    - /collect/a.jpg
+    - /collect/b.jpg
+    - /collect/c.png
+    - /collect/d.png
+    - /collect/e.jpg
+    - /collect/f.png
+    - /collect/g.png
+    - /collect/h.jpg
+    - /collect/i.jpg
+    - /collect/j.jpg
+    - /collect/k.png
+    - /collect/l.png
+    - /collect/m.png
+    - /collect/o.jpg
+    - /collect/p.png
+    - /collect/q.jpg
+    - /collect/r.jpg
+    - /collect/s.png
+    - /collect/t.png
+    - /collect/u.jpg
+    - /collect/v.png
+    - /collect/w.png
+    - /collect/x.jpg
+    - /collect/y.png
 # Replace Broken Images (替換無法顯示的圖片)
 error_img:
   flink: /img/friend_404.gif
