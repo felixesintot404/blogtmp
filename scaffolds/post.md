@@ -1,7 +1,7 @@
 ---
 title: {{ title }}
 date: {{ date }}
-top_img: /img/post.jpg
+top_img: false
 tags:
 categories:
 ---

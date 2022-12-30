@@ -2,7 +2,7 @@
 title: 关于
 date: 2022-10-24 12:23:18
 type: "about"
-top_img: /img/about.jpg
+top_img: false
 ---
 # 关于本站
 felixesintot的个人博客

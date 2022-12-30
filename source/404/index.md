@@ -2,7 +2,7 @@
 title: "404 Not Found"
 date: 2022-10-31 09:28:32
 permalink: /404.html
-top_img: /img/404page.jpg
+top_img: false
 comments: false
 ---
 
