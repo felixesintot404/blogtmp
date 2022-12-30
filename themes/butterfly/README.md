@@ -1,7 +1,7 @@
 <div align="right">
   Language:
   🇺🇸
-  <a title="Chinese" href="/README_CN.md">🇨🇳</a>
+  <a title="Chinese" href="/themes/butterfly/README_CN.md">🇨🇳</a>
 </div>
 
 # hexo-theme-butterfly

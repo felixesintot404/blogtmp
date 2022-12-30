@@ -1,7 +1,7 @@
 <div align="right">
   語言:
   中文
-  <a title="English" href="/README.md">英文</a>
+  <a title="English" href="/themes/butterfly/README.md">英文</a>
 </div>
 
 # hexo-theme-butterfly
