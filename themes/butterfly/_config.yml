@@ -80,11 +80,11 @@ katex:
 # --------------------------------------
 
 # Favicon（網站圖標）
-favicon: https://cdn.luogu.com.cn/upload/usericon/289608.png
+favicon: https://www.luogu.com.cn/images/congratulation.png
 
 # Avatar (頭像)
 avatar:
-  img: https://cdn.luogu.com.cn/upload/usericon/289608.png
+  img: https://www.luogu.com.cn/images/congratulation.png
   effect: false
 
 # Disable all banner image
