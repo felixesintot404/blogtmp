@@ -127,7 +127,7 @@ cover:
   position: both
   # When cover is not set, the default cover is displayed (當沒有設置cover時，默認的封面顯示)
   default_cover:
-    - https://s1.ax1x.com/2022/12/30/pSp4Ik4.jpg
+    - /img/world.jpg
 # Replace Broken Images (替換無法顯示的圖片)
 error_img:
   flink: /img/friend_404.gif
