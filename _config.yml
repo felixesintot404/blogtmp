@@ -108,7 +108,6 @@ deploy:
   branch: gh-pages
 
 markdown:
-  preset: "default"
   render:
     html: true
     xhtmlOut: false
@@ -146,8 +145,8 @@ markdown:
         trust: true
   anchors:
     level: 1
-    collisionSuffix: 'v'
-    permalink: true
+    collisionSuffix: ''
+    permalink: false
     permalinkClass: headerlink
     permalinkSymbol: ''
 
