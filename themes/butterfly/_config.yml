@@ -4,6 +4,7 @@
 
 menu:
   首页: / || fas fa-home
+  笔记索引: /suan-fa-zong-mu-lu/ || fas fa-list
   归档: /archives/ || fas fa-archive
   标签: /tags/ || fas fa-tags
   分类: /categories/ || fas fa-folder-open
@@ -124,7 +125,7 @@ cover:
   archives_enable: true
   # the position of cover in home page (封面顯示的位置)
   # left/right/both
-  position: both
+  position: left
   # When cover is not set, the default cover is displayed (當沒有設置cover時，默認的封面顯示)
   default_cover:
     - /collect/a.jpg
