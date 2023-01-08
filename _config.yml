@@ -108,6 +108,7 @@ deploy:
   branch: gh-pages
 
 markdown:
+  preset: "default"
   render:
     html: true
     xhtmlOut: false
