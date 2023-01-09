@@ -190,3 +190,14 @@ nofollow:
   enable: true
   field: site
   exclude:
+
+# Artitalk
+# see https://artitalk.js.org/
+artitalk:
+  enable: true
+  appId: xY2cogOPITpScMuOGn1c5wwd-MdYXbMMI
+  appKey: p6I5aKfnYZgIgk4jMULhXTZ8
+  path: daodao
+  js:
+  option:
+  front_matter:
