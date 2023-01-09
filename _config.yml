@@ -200,4 +200,5 @@ artitalk:
   path: daodao
   js:
   option:
+    serverURL: http://artitalkapi.felixesintot.top/
   front_matter:
