@@ -13,6 +13,7 @@
   "dependencies": {
     "@neilsustc/markdown-it-katex": "^1.0.0",
     "activate-power-mode": "^1.0.0",
+    "canvas-nest.js": "^2.0.4",
     "gitalk": "^1.8.0",
     "hexo": "^6.3.0",
     "hexo-browsersync": "^0.3.0",
