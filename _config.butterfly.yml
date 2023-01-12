@@ -563,8 +563,8 @@ index_top_img_height:
 # The user interface setting of category and tag page (category和tag頁的UI設置)
 # index - same as Homepage UI (index 值代表 UI將與首頁的UI一樣)
 # default - same as archives UI 默認跟archives頁面UI一樣
-category_ui: # 留空或 index
-tag_ui: # 留空或 index
+category_ui: index # 留空或 index
+tag_ui: index # 留空或 index
 
 # Website Background (設置網站背景)
 # can set it to color or image (可設置圖片 或者 顔色)
@@ -739,7 +739,7 @@ aside:
   card_tags:
     enable: true
     limit: 40 # if set 0 will show all
-    color: true
+    color: 
     sort_order: # Don't modify the setting unless you know how it works
   card_archives:
     enable: true
@@ -765,8 +765,8 @@ busuanzi:
 # Time difference between publish date and now (網頁運行時間)
 # Formal: Month/Day/Year Time or Year/Month/Day Time
 runtimeshow:
-  enable: false
-  publish_date: 
+  enable: true
+  publish_date: 2022/10/27 00:00:00
 
 # Aside widget - Newest Comments
 newest_comments:
@@ -935,7 +935,6 @@ inject:
     - <link rel="stylesheet" href="/css/mycss.css">
   bottom:
     - <div class="aplayer no-destroy" data-id="360286071" data-server="netease" data-type="playlist" data-fixed="true" data-autoplay="false"> </div>
-    - <script src="/js/myjs.js"></script>
     # - <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.3/dist/contrib/mhchem.min.js" integrity="sha384-RTN08a0AXIioPBcVosEqPUfKK+rPp+h1x/izR7xMkdMyuwkcZCWdxO+RSwIFtJXN"  crossorigin="anonymous"></script>
     # - <script src="xxxx"></script>
 
