@@ -146,9 +146,11 @@ markdown:
   anchors:
     level: 1
     collisionSuffix: ''
-    permalink: false
-    permalinkClass: headerlink
+    permalink: true
+    permalinkClass: 'headerlink'
+    permalinkSide: 'left'
     permalinkSymbol: ''
+    case: 0
 
 search:
   path: search.xml
