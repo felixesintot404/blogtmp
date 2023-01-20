@@ -4,7 +4,7 @@
 
 menu:
   首页: / || fas fa-home
-  叨两句: /daodao/ || fas fa-comment
+  # 叨两句: /daodao/ || fas fa-comment
   笔记索引: /suan-fa-zong-mu-lu/ || fas fa-list
   归档: /archives/ || fas fa-archive
   标签: /tags/ || fas fa-tags
