@@ -11,3 +11,5 @@ felixesintot的个人博客
 > luogu:[![](https://img.shields.io/badge/Luogu-mushvase-green)](https://www.luogu.com.cn/user/289608)
 > github:[![](https://img.shields.io/badge/github-felixesintot-blueviolet)](https://github.com/felixesintot/)
 > codeforces:[![](https://img.shields.io/badge/codeforces-felixesintot-blue)](https://codeforces.com/profile/felixesintot)
+# 关于音乐
+没错，是[terraria的BGM](https://music.163.com/#/playlist?id=360286071)！
