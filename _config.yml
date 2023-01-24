@@ -179,7 +179,7 @@ permalink_pinyin:
 
 electric_clock:
   priority: 5
-  enable: true
+  enable: false
   enable_page: all
   layout:
     type: class
