@@ -3,8 +3,8 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "show": "hexo clean && hexo s -p 2333",
-    "save": "git add . && git commit -m 'backup' && git push -f && hexo clean && hexo g -d",
+    "show": "hexo s -p 2333",
+    "save": "git add . && git commit -m 'backup' && git push -f && hexo g -d",
     "ponly": "hexo clean && hexo g && hexo deploy"
   },
   "hexo": {
