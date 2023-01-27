@@ -146,7 +146,7 @@ markdown:
   anchors:
     level: 1
     collisionSuffix: ''
-    permalink: true
+    permalink: false
     permalinkClass: 'headerlink'
     permalinkSide: 'left'
     permalinkSymbol: ''
