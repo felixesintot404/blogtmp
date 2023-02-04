@@ -367,6 +367,7 @@ waline:
       mailError: '请填写正确的邮件地址',
       sofa: '快来抢占沙发~',
       }
+    search: false
     # emoji: [
     #     'https://unpkg.com/@waline/emojis@1.1.0/alus',
     #     'https://unpkg.com/@waline/emojis@1.1.0/bilibili',
