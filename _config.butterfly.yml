@@ -61,8 +61,8 @@ algolia_search:
 local_search:
   enable: true
   labels:
-    input_placeholder: Search for Posts
-    hits_empty: "Sorry,\"${query}\" not found" # 如果没有查到内容相关内容显示
+    input_placeholder: "输入以搜索（前面加“#”可搜索标签）"
+    hits_empty: "没有找到\"${query}\"，TXT。" # 如果没有查到内容相关内容显示
 # preload: false
 # CDN:
 
@@ -893,7 +893,7 @@ instantpage: true
 # https://github.com/vinta/pangu.js
 # Insert a space between Chinese character and English character (中英文之間添加空格)
 pangu:
-  enable: true
+  enable: false
   field: site # site/post
 
 # Lazyload (圖片懶加載)
