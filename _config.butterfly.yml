@@ -53,13 +53,17 @@ social:
 
 # Algolia search
 algolia_search:
-  enable: false
+  enable: true
   hits:
     per_page: 6
+  labels:
+    input_placeholder: "输入以搜索"
+    hits_empty: "没有找到\"${query}\"，TXT。"
+    hits_stats: "找到${hits}条结果（用时${time} ms）"
 
 # Local search
 local_search:
-  enable: true
+  enable: false
   labels:
     input_placeholder: "输入以搜索（前面加“#”可搜索标签）"
     hits_empty: "没有找到\"${query}\"，TXT。" # 如果没有查到内容相关内容显示

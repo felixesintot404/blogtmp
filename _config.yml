@@ -152,11 +152,11 @@ markdown:
     permalinkSymbol: ''
     case: 0
 
-search:
-  path: search.xml
-  field: post
-  content: true
-  template:
+# search:
+#   path: search.xml
+#   field: post
+#   content: true
+#   template:
 
 history_calendar:
   priority: 4
@@ -204,3 +204,19 @@ nofollow:
 #   option:
 #     serverURL: https://artitalkapi.felixesintot.top/
 #   front_matter:
+
+algolia:
+  appId: "M1TRIG8XI7"
+  apiKey: "6791569cfed55740bb611ccfe0b0a138"
+  adminApiKey: "bd1ae4a7fe837d3f5fb1abde75233ac3"
+  chunkSize: 5000
+  indexName: "search of felixesintot's blog"
+  fields:
+    - content:strip:truncate,0,500
+    - excerpt:strip
+    - gallery
+    - permalink
+    - photos
+    - slug
+    - tags
+    - title
