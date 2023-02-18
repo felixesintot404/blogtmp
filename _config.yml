@@ -212,11 +212,6 @@ algolia:
   chunkSize: 5000
   indexName: "search of felixesintot's blog"
   fields:
-    - content:strip:truncate,0,500
-    - excerpt:strip
-    - gallery
-    - permalink
-    - photos
-    - slug
-    - tags
+    - path
     - title
+    - content:strip
