@@ -129,15 +129,15 @@ markdown:
     - markdown-it-checkbox
     - markdown-it-imsize
     - markdown-it-expandable
-    - markdown-it-highlightjs
-    - name: markdown-it-container
-      options: success
-    - name: markdown-it-container
-      options: tips
-    - name: markdown-it-container
-      options: warning
-    - name: markdown-it-container
-      options: danger
+    # - markdown-it-highlightjs
+    # - name: markdown-it-container
+    #   options: success
+    # - name: markdown-it-container
+    #   options: tips
+    # - name: markdown-it-container
+    #   options: warning
+    # - name: markdown-it-container
+    #   options: danger
     - plugin: 
       name: '@neilsustc/markdown-it-katex'
       options:
@@ -146,11 +146,12 @@ markdown:
   anchors:
     level: 1
     collisionSuffix: ''
-    permalink: true
+    permalink: false
     permalinkClass: 'headerlink'
     permalinkSide: 'left'
     permalinkSymbol: ''
     case: 0
+    separator: '-'
 
 # search:
 #   path: search.xml
