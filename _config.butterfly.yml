@@ -53,7 +53,7 @@ social:
 
 # Algolia search
 algolia_search:
-  enable: false
+  enable: true
   hits:
     per_page: 6
   labels:
@@ -71,7 +71,7 @@ local_search:
 # Docsearch
 # https://docsearch.algolia.com/
 docsearch:
-  enable: true
+  enable: false
   appId: 63Z5H1PXX7
   apiKey: 7e3d053724a7cafdf68abe8870bd6ea6
   indexName: felixesintot
