@@ -67,6 +67,16 @@ local_search:
   labels:
     input_placeholder: "输入以搜索（前面加“#”可搜索标签）"
     hits_empty: "没有找到\"${query}\"，TXT。" # 如果没有查到内容相关内容显示
+
+# Docsearch
+# https://docsearch.algolia.com/
+docsearch:
+  enable: false
+  appId:
+  apiKey:
+  indexName:
+  option:
+  
 # preload: false
 # CDN:
 
@@ -750,6 +760,8 @@ aside:
     enable: true
     limit: 40 # if set 0 will show all
     color: true
+    orderby: random # Order of tags, random/name/length
+    order: 1 # Sort of order. 1, asc for ascending; -1, desc for descending
     sort_order: # Don't modify the setting unless you know how it works
   card_archives:
     enable: true
@@ -978,6 +990,8 @@ CDN:
     algolia_js: https://cdn.jsdelivr.net/gh/CCKNBC/ccknbc.github.io/js/search/algolia.js
     # algolia_search_v4:
     # instantsearch_v4:
+    # docsearch_js:
+    # docsearch_css:
     # pjax:
     # gitalk:
     # gitalk_css:
