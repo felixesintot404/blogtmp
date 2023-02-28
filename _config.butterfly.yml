@@ -460,7 +460,7 @@ chat_hide_show: false
 # chatra
 # https://chatra.io/
 chatra:
-  enable: true
+  enable: false
   id: fqKBpmj2k644bzNp4
 
 # tidio
