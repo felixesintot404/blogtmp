@@ -983,7 +983,7 @@ CDN:
     # local_search:
     algolia_js: https://cdn.jsdelivr.net/gh/CCKNBC/ccknbc.github.io/js/search/algolia.js
     # algolia_search:
-    # instantsearch:
+    instantsearch: /js/ipmj.min.js
     # docsearch_js:
     # docsearch_css:
     # pjax:
@@ -1018,11 +1018,11 @@ CDN:
     # fireworks:
     # click_heart:
     # ClickShowText:
-    # fontawesome:
+    fontawesome: /css/fa.css
     # flickr_justified_gallery_js:
     # flickr_justified_gallery_css:
-    # aplayer_css:
-    # aplayer_js:
+    aplayer_css: /css/apl.min.css
+    aplayer_js: /js/apl.min.js
     meting_js: /js/Meting.min.js
     # prismjs_js:
     # prismjs_lineNumber_js:
