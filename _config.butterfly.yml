@@ -981,7 +981,7 @@ CDN:
     # utils:
     # translate:
     # local_search:
-    algolia_js: https://cdn.jsdelivr.net/gh/CCKNBC/ccknbc.github.io/js/search/algolia.js
+    algolia_js: /js/ma.js
     # algolia_search:
     instantsearch: /js/ipmj.min.js
     # docsearch_js:
