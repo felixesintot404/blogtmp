@@ -185,17 +185,17 @@ nofollow:
   field: site
   exclude:
 
-# # Artitalk
-# # see https://artitalk.js.org/
-# artitalk:
-#   enable: true
-#   appId: xY2cogOPITpScMuOGn1c5wwd-MdYXbMMI
-#   appKey: p6I5aKfnYZgIgk4jMULhXTZ8
-#   path: daodao
-#   js:
-#   option:
-#     serverURL: https://artitalkapi.felixesintot.top/
-#   front_matter:
+# Artitalk
+# see https://artitalk.js.org/
+artitalk:
+  enable: true
+  appId: xY2cogOPITpScMuOGn1c5wwd-MdYXbMMI
+  appKey: p6I5aKfnYZgIgk4jMULhXTZ8
+  path: daodao
+  js:
+  option:
+    serverURL: https://artitalkapi.felixesintot.top/
+  front_matter:
 
 algolia:
   appId: "M1TRIG8XI7"
