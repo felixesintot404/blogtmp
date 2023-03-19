@@ -196,6 +196,7 @@ artitalk:
   option:
     serverURL: https://artitalkapi.felixesintot.top/
   front_matter:
+    title: 叨两句
 
 algolia:
   appId: "M1TRIG8XI7"
