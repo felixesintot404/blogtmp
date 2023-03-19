@@ -192,7 +192,7 @@ artitalk:
   appId: xY2cogOPITpScMuOGn1c5wwd-MdYXbMMI
   appKey: p6I5aKfnYZgIgk4jMULhXTZ8
   path: daodao
-  js:
+  js: https://unpkg.com/artitalk
   option:
     serverURL: https://artitalkapi.felixesintot.top/
   front_matter:
