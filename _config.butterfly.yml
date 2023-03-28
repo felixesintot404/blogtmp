@@ -64,12 +64,15 @@ algolia_search:
 # Local search
 local_search:
   enable: false
-  labels:
-    input_placeholder: "输入以搜索（前面加“#”可搜索标签）"
-    hits_empty: "没有找到\"${query}\"，TXT。" # 如果没有查到内容相关内容显示
+  # Preload the search data when the page loads.
+  preload: false
+  # Show top n results per article, show all results by setting to -1
+  top_n_per_article: 1
+  # Unescape html strings to the readable one.
+  unescape: false
+  CDN:
 
 # Docsearch
-# https://docsearch.algolia.com/
 docsearch:
   enable: false
   appId: 63Z5H1PXX7
@@ -840,7 +843,7 @@ rightside_item_order:
 medium_zoom: false
 
 # fancybox
-# http://fancyapps.com/fancybox/3/
+# https://fancyapps.com/fancybox/
 fancybox: true
 
 # Tag Plugins settings (標籤外掛)
@@ -981,7 +984,7 @@ CDN:
     # utils:
     # translate:
     # local_search:
-    algolia_js: /js/ma.js
+    # algolia_js: 
     # algolia_search:
     instantsearch: /js/ipmj.min.js
     # docsearch_js:
