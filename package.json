@@ -1,11 +1,12 @@
 {
-  "name": "hexo-site",
-  "version": "0.0.0",
+  "name": "felixesintotblogtmp",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "show": "hexo clean & hexo s -p 2333",
     "save": "git add . && git commit -m 'backup' && git push -f && hexo clean && hexo g && hexo algolia && hexo d",
-    "ponly": "hexo clean && hexo g && hexo deploy"
+    "ponly": "hexo clean && hexo g && hexo deploy",
+    "fast": "hexo g && hexo algolia && hexo d"
   },
   "hexo": {
     "version": "6.3.0"
