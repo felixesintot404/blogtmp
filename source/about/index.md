@@ -8,8 +8,8 @@ top_img: false
 felixesintot的个人博客
 # 关于作者
 这个作者是个蒟蒻，在WHK，OI，甚至是[**Terraria**](http://www.gog-games.com/search/terraria)上都被吊打。  
-> luogu:[![](https://img.shields.io/badge/Luogu-mushvase-green)](https://www.luogu.com.cn/user/289608)
-> github:[![](https://img.shields.io/badge/github-felixesintot-blueviolet)](https://github.com/felixesintot/)
-> codeforces:[![](https://img.shields.io/badge/codeforces-felixesintot-blue)](https://codeforces.com/profile/felixesintot)
+> luogu:[![](https://img.shields.io/badge/Luogu-mushvase-gree?style=for-the-badge&logo=appveyorn)](https://www.luogu.com.cn/user/289608)
+> github:[![](https://img.shields.io/badge/github-felixesintot-blueviolet?style=for-the-badge&logo=appveyor)](https://github.com/felixesintot/)
+> codeforces:[![](https://img.shields.io/badge/codeforces-felixesintot-blue?style=for-the-badge&logo=appveyor)](https://codeforces.com/profile/felixesintot)
 # 关于音乐
 没错，是[terraria的BGM](https://music.163.com/#/playlist?id=360286071)！
