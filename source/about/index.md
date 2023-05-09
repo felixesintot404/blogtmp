@@ -5,7 +5,7 @@ type: "about"
 top_img: false
 ---
 # 关于本站
-felixesintot的个人博客
+felixesintot（卢钧平）的个人博客
 # 关于作者
 这个作者是个蒟蒻，在WHK，OI，甚至是[**Terraria**](http://www.gog-games.com/search/terraria)上都被吊打。  
 > [![](https://img.shields.io/badge/Luogu-mushvase-gree?style=for-the-badge&logo=appveyorn)](https://www.luogu.com.cn/user/289608)  
