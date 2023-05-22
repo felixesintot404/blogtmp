@@ -316,7 +316,7 @@ comments:
   # Up to two comments system, the first will be shown as default
   # Choose: Disqus/Disqusjs/Livere/Gitalk/Valine/Waline/Utterances/Facebook Comments/Twikoo/Giscus/Remark42/Artalk
   use: 
-   - Giscus
+   - Waline
 	# Valine,Disqus
   text: true # Display the comment name next to the button
   # lazyload: The comment system will be load when comment element enters the browser's viewport.
@@ -374,7 +374,8 @@ waline:
   bg: # waline background
   pageview: false
   option:
-    recaptchaV3Key: 6Lf1cW4jAAAAAIrzxKrY90W84_F3X3mnw211EXUQ
+    # recaptchaV3Key: 6Lf1cW4jAAAAAIrzxKrY90W84_F3X3mnw211EXUQ
+    turnstileKey: 0x4AAAAAAAFFJh-1uow5RMIT
     locale: {
       nick: '昵称',
       mail: '邮箱',
@@ -385,6 +386,7 @@ waline:
       sofa: '快来抢占沙发~',
       }
     search: false
+    reaction: true
     # emoji: [
     #     'https://unpkg.com/@waline/emojis@1.1.0/alus',
     #     'https://unpkg.com/@waline/emojis@1.1.0/bilibili',
