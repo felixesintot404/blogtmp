@@ -374,8 +374,8 @@ waline:
   bg: # waline background
   pageview: true
   option:
-    # recaptchaV3Key: 6Lf1cW4jAAAAAIrzxKrY90W84_F3X3mnw211EXUQ
-    turnstileKey: 0x4AAAAAAAFFJh-1uow5RMIT
+    recaptchaV3Key: 6Lf1cW4jAAAAAIrzxKrY90W84_F3X3mnw211EXUQ
+    # turnstileKey: 0x4AAAAAAAFFJh-1uow5RMIT
     locale: {
       nick: '昵称',
       mail: '邮箱',
@@ -781,7 +781,7 @@ aside:
 busuanzi:
   site_uv: false
   site_pv: false
-  page_pv: false
+  page_pv: true
 
 # Time difference between publish date and now (網頁運行時間)
 # Formal: Month/Day/Year Time or Year/Month/Day Time
