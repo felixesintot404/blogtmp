@@ -372,7 +372,7 @@ valine:
 waline:
   serverURL: https://waline.felixesintot.top/ # Waline server address url
   bg: # waline background
-  pageview: false
+  pageview: true
   option:
     # recaptchaV3Key: 6Lf1cW4jAAAAAIrzxKrY90W84_F3X3mnw211EXUQ
     turnstileKey: 0x4AAAAAAAFFJh-1uow5RMIT
