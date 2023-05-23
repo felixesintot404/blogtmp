@@ -374,7 +374,7 @@ waline:
   bg: # waline background
   pageview: true
   option:
-    recaptchaV3Key: 6Lf1cW4jAAAAAIrzxKrY90W84_F3X3mnw211EXUQ
+    # recaptchaV3Key: 6Lf1cW4jAAAAAIrzxKrY90W84_F3X3mnw211EXUQ
     # turnstileKey: 0x4AAAAAAAFFJh-1uow5RMIT
     locale: {
       nick: '昵称',
