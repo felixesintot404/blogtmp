@@ -1,10 +1,10 @@
-﻿# Main menu navigation (導航目錄)
+# Main menu navigation (導航目錄)
 # see https://butterfly.js.org/posts/4aa8abbe/#導航菜單
 # --------------------------------------
 
 menu:
   首页: / || fas fa-home
-  # 蒟蒻の狗叫: /daodao/ || fas fa-comment
+  蒟蒻の狗叫: /daodao/ || fas fa-comment
   # 笔记索引: /suan-fa-zong-mu-lu/ || fas fa-list
   归档: /archives/ || fas fa-archive
   标签: /tags/ || fas fa-tags
