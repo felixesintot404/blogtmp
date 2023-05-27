@@ -3,8 +3,15 @@ date: '2022-11-25T14:40:32+08:00'
 title: 友情链接
 top_img: false
 type: link
-updated: 2023-5-27T21:6:58.937+8:0
+updated: 2023-5-27T21:16:57.923+8:0
 ---
+---
+title: 友情链接
+date: 2022-11-25 14:40:32
+type: "link"
+top_img: false
+---
+
 # 真正的友链
 
 {% raw %}
@@ -104,4 +111,50 @@ function askFriend (event) {
         return;
     }
     if (!(TestUrl(url))){
-        alert("URL 格式错误！需要包含 HTTP(s
+        alert("URL 格式错误！需要包含 HTTP(a) 协议头！");
+        return;
+    }
+    if (!(TestUrl(image))){
+        alert("图标 URL 的格式错误！它需要包含 HTTP(s) 协议头！");
+        return;
+    }
+    event.target.classList.add('is-loading');
+    grecaptcha.ready(function() {
+          grecaptcha.execute('6Lf1cW4jAAAAAIrzxKrY90W84_F3X3mnw211EXUQ', {action: 'submit'}).then(function(token) {
+              $.ajax({
+                type: 'get',
+                cache: false,
+                url: url,
+                dataType: "jsonp",
+                async: false,
+                processData: false,
+                //timeout:10000, 
+                complete: function (data) {
+                    if(data.status==200){
+                    $.ajax({
+                        type: 'POST',
+                        dataType: "json",
+                        data: {
+                            "name": name,
+                            "url": url,
+                            "image": image,
+                            "description": des,
+                            "verify": token,
+                        },
+                        url: 'https://edit.felixesintot.top/pub/ask_friend/',
+                        success: function (data) {
+                            alert(data.msg);
+                        }
+                    });}
+                    else{
+                        alert("无法访问 URL！");
+                    }
+                    event.target.classList.remove('is-loading');
+                }
+          });
+        });
+    });
+}
+</script>
+{% endraw %}
+
