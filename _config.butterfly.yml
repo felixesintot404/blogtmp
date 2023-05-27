@@ -957,6 +957,7 @@ inject:
     - <link rel="stylesheet" href="/css/mycss.css">
   bottom:
     - <div class="aplayer no-destroy" data-id="360286071" data-server="netease" data-type="playlist" data-fixed="true" data-autoplay="false"> </div>
+    - <script src="https://recaptcha.net/recaptcha/api.js?render=6Lf1cW4jAAAAAIrzxKrY90W84_F3X3mnw211EXUQ"></script>
     # - <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.3/dist/contrib/mhchem.min.js" integrity="sha384-RTN08a0AXIioPBcVosEqPUfKK+rPp+h1x/izR7xMkdMyuwkcZCWdxO+RSwIFtJXN"  crossorigin="anonymous"></script>
     # - <script src="xxxx"></script>
 
