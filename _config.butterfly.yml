@@ -882,6 +882,8 @@ note:
 pjax:
   enable: true
   exclude:
+    - /daodao/
+    - /link/
     # - xxxx
     # - xxxx
 
