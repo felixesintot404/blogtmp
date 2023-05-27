@@ -3,7 +3,7 @@ date: '2022-11-25T14:40:32+08:00'
 title: 友情链接
 top_img: false
 type: link
-updated: 2023-5-27T21:18:13.414+8:0
+updated: 2023-5-27T21:25:36.208+8:0
 ---
 # 真正的友链
 
@@ -78,7 +78,6 @@ updated: 2023-5-27T21:18:13.414+8:0
         </div>
     </div>
 </article>
-<script src="https://recaptcha.net/recaptcha/api.js?render=6Lf1cW4jAAAAAIrzxKrY90W84_F3X3mnw211EXUQ"></script>
 <script src="https://cdn.bootcss.com/jquery/1.12.4/jquery.min.js"></script>
 <script>
 function TestUrl(url) {
