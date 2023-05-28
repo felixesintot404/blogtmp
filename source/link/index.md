@@ -3,7 +3,7 @@ date: '2022-11-25T14:40:32+08:00'
 title: 友情链接
 top_img: false
 type: link
-updated: 2023-5-27T21:25:36.208+8:0
+updated: 2023-5-28T12:14:3.13+8:0
 ---
 # 真正的友链
 
@@ -18,7 +18,7 @@ updated: 2023-5-27T21:25:36.208+8:0
 
 <link rel="stylesheet" href="https://unpkg.com/apursuer-qexo-friend-links@1.0.2/apursuer-hexo-friend-links.css"/>
 {% endraw %}
-# 申请友链
+{% hideToggle 点我添加友链！ %}
 {% raw %}
 <article class="message is-info">
     <div class="message-header">
@@ -149,4 +149,5 @@ function askFriend (event) {
 }
 </script>
 {% endraw %}
+{% endhideToggle %}
 
