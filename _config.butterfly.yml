@@ -105,11 +105,11 @@ katex:
 # --------------------------------------
 
 # Favicon（網站圖標）
-favicon: https://www.luogu.com.cn/images/congratulation.png
+favicon: https://s2.loli.net/2023/06/12/dQAyKC5Bbhw12uf.png
 
 # Avatar (頭像)
 avatar:
-  img: https://www.luogu.com.cn/images/congratulation.png
+  img: https://s2.loli.net/2023/06/12/dQAyKC5Bbhw12uf.png
   effect: false
 
 # Disable all banner image
