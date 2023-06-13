@@ -6,7 +6,8 @@
     "show": "hexo clean & hexo s -p 2333",
     "build": "hexo clean && hexo g && hexo algolia",
     "s": "git add . && git commit -m'mid' && git push -f",
-    "fast": "hexo g && hexo algolia && hexo d"
+    "fast": "hexo g && hexo algolia && hexo d",
+    "upd": "git pull && npm update --save && git add . && git commit -m'upd' && git push -f"
   },
   "hexo": {
     "version": "6.3.0"
@@ -36,6 +37,7 @@
     "hexo-renderer-stylus": "^2.1.0",
     "hexo-server": "^3.0.0",
     "hexo-tag-aplayer": "^3.0.4",
+    "hexo-theme-butterfly": "^4.9.0",
     "hexo-wordcount": "^6.0.1",
     "markdown-it-checkbox": "^1.1.0",
     "markdown-it-expandable": "^1.0.2",
