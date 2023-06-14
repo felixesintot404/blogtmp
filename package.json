@@ -7,7 +7,7 @@
     "build": "hexo clean && hexo g && hexo algolia",
     "s": "git add . && git commit -m'mid' && git push -f",
     "fast": "hexo g && hexo algolia && hexo d",
-    "upd": "git pull && npm update --save && git add . && git commit -m'upd' && git push -f"
+    "upd": "git pull && npm update -g --save && git add . && git commit -m'upd' && git push -f"
   },
   "hexo": {
     "version": "6.3.0"
