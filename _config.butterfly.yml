@@ -476,8 +476,8 @@ tidio:
 # daovoice
 # http://daovoice.io/
 daovoice:
-  enable: false
-  app_id:
+  enable: true
+  app_id: 077ea3ae
 
 # crisp
 # https://crisp.chat/en/
