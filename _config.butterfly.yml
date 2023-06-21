@@ -989,7 +989,7 @@ CDN:
     # local_search:
     # algolia_js: 
     # algolia_search:
-    instantsearch: /js/ipmj.min.js
+    # instantsearch: 
     # docsearch_js:
     # docsearch_css:
     # pjax:
@@ -1024,12 +1024,12 @@ CDN:
     # fireworks:
     # click_heart:
     # ClickShowText:
-    fontawesome: /css/fa.css
+    # fontawesome: 
     # flickr_justified_gallery_js:
     # flickr_justified_gallery_css:
-    aplayer_css: /css/apl.min.css
-    aplayer_js: /js/apl.min.js
-    meting_js: /js/Meting.min.js
+    # aplayer_css: 
+    # aplayer_js: 
+    # meting_js: 
     # prismjs_js:
     # prismjs_lineNumber_js:
     # prismjs_autoloader:
