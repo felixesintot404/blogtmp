@@ -12,6 +12,10 @@
       link: https://smms.app/
       avatar: https://smms.app/favicon-32x32.png
       descr: 这个图床……至少不容易炸
+    - name: UNPKG
+      link: https://unpkg.com/
+      avatar: https://unpkg.com/favicon.ico
+      descr: 看起来在中国比jsdeliver稳一点？
 
 # - class_name: 网站
 #   class_desc: 值得推荐的网站
