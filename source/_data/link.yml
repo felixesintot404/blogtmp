@@ -8,9 +8,9 @@
 - class_name: 有用的网站
   class_desc:
   link_list:
-    - name: SM.MS
-      link: https://smms.app/
-      avatar: https://smms.app/favicon-32x32.png
+    - name: 聚合图床
+      link: https://www.superbed.cn/
+      avatar: https://www.superbed.cn/favicon.ico
       descr: 这个图床……至少不容易炸
     - name: UNPKG
       link: https://unpkg.com/

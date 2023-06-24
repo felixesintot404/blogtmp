@@ -105,11 +105,11 @@ katex:
 # --------------------------------------
 
 # Favicon（網站圖標）
-favicon: https://pic.imgdb.cn/item/6496e6d51ddac507ccd4c1c5.png
+favicon: https://pic.imgdb.cn/item/6496ea681ddac507ccdb0c27.png
 
 # Avatar (頭像)
 avatar:
-  img: https://pic.imgdb.cn/item/6496e6d51ddac507ccd4c1c5.png
+  img: https://pic.imgdb.cn/item/6496ea681ddac507ccdb0c27.png
   effect: false
 
 # Disable all banner image
@@ -590,7 +590,7 @@ tag_ui: # 留空或 index
 # Website Background (設置網站背景)
 # can set it to color or image (可設置圖片 或者 顔色)
 # The formal of image: url(http://xxxxxx.com/xxx.jpg)
-background: url(https://s2.loli.net/2023/05/26/9nJRrtYHUXS4iuz.png)
+background: url(https://pic.imgdb.cn/item/6496eac91ddac507ccdbb87a.png)
 
 
 # Footer Background
