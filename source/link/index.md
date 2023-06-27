@@ -149,5 +149,4 @@ function askFriend (event) {
 }
 </script>
 {% endraw %}
-我将定期手动添加！
 {% endhideToggle %}
