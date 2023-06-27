@@ -17,6 +17,9 @@ updated: 2023-6-26T23:2:14.203+8:0
 <script>loadQexoFriends("qexo-friends", "https://edit.felixesintot.top")</script>
 {% endraw %}
 {% hideToggle 点我添加友链！ %}
+{% note flat info %}
+网站有提示成功就说明作者已经收到，请不要重复提交。
+{% endnote %}
 {% raw %}
 <link rel="stylesheet" href="https://unpkg.com/apursuer-qexo-friend-links@1.0.2/apursuer-hexo-friend-links.css"/>
 <article class="message is-info">
@@ -71,7 +74,7 @@ updated: 2023-6-26T23:2:14.203+8:0
             </div>
             <div class="field is-grouped">
                 <div class="control">
-                    <button class="button is-info" type="submit" onclick="askFriend(event)">申请友链</button>
+                    <button class="button is-info" type="submit" onclick="askFriend(event)">发射！</button>
                 </div>
             </div>
         </div>
