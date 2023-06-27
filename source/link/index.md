@@ -45,7 +45,7 @@ updated: 2023-6-26T23:2:14.203+8:0
                     <i class="fas fa-link"></i>
                 </span>
             </div>
-            <p class="help ">请确保站点可访问！</p>
+            <p class="help ">请确保站点可访问，否则可能提交失败！</p>
             </div>
             <div class="field">
                 <label class="label">图标</label>
