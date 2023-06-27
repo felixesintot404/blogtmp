@@ -17,11 +17,6 @@ updated: 2023-6-26T23:2:14.203+8:0
 <script>loadQexoFriends("qexo-friends", "https://edit.felixesintot.top")</script>
 {% endraw %}
 {% hideToggle 点我添加友链！ %}
-请在评论区评论，并给出4项内容：
-+ 您的博客名
-+ 指向您博客主页的链接
-+ 您的网站图标（尽可能使用圆形图标）
-+ 您的博客的简要描述
 {% raw %}
 <link rel="stylesheet" href="https://unpkg.com/apursuer-qexo-friend-links@1.0.2/apursuer-hexo-friend-links.css"/>
 <article class="message is-info">
