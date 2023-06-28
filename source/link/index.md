@@ -3,7 +3,7 @@ date: '2022-11-25T14:40:32+08:00'
 title: 友情链接
 top_img: false
 type: link
-updated: 2023-6-26T23:2:14.203+8:0
+updated: 2023-6-28T18:19:43.772+8:0
 ---
 # 真正的友链
 
@@ -15,6 +15,7 @@ updated: 2023-6-26T23:2:14.203+8:0
 <script src="https://unpkg.com/qexo-static@1.6.0/hexo/friends.js"></script>
 
 <script>loadQexoFriends("qexo-friends", "https://edit.felixesintot.top")</script>
+
 {% endraw %}
 {% hideToggle 点我添加友链！ %}
 {% note flat info %}
@@ -22,6 +23,7 @@ updated: 2023-6-26T23:2:14.203+8:0
 {% endnote %}
 {% raw %}
 <link rel="stylesheet" href="https://unpkg.com/apursuer-qexo-friend-links@1.0.2/apursuer-hexo-friend-links.css"/>
+
 <article class="message is-info">
     <div class="message-header">
         申请友链
@@ -40,17 +42,17 @@ updated: 2023-6-26T23:2:14.203+8:0
             <div class="field">
                 <label class="label">链接</label>
             <div class="control has-icons-left">
-                <input class="input" type="url" placeholder="您网站首页的链接" id="friend-link" required>
+                <input class="input" type="url" placeholder="您网站首页的链接（如：https://www.example.com）" id="friend-link" required>
                 <span class="icon is-small is-left">
                     <i class="fas fa-link"></i>
                 </span>
             </div>
-            <p class="help ">请确保站点可访问，否则可能提交失败！</p>
+            <p class="help ">请确保网站可以访问！</p>
             </div>
             <div class="field">
                 <label class="label">图标</label>
                 <div class="control has-icons-left">
-                    <input class="input" type="url" placeholder="您的网站图标(尽量为正圆形)" id="friend-icon" required>
+                    <input class="input" type="url" placeholder="您的网站图标(尽量为正圆形，如：https://www.example.com/favicon.ico)" id="friend-icon" required>
                     <span class="icon is-small is-left">
                         <i class="fas fa-image"></i>
                     </span>
@@ -74,7 +76,7 @@ updated: 2023-6-26T23:2:14.203+8:0
             </div>
             <div class="field is-grouped">
                 <div class="control">
-                    <button class="button is-info" type="submit" onclick="askFriend(event)">发射！</button>
+                    <button class="button is-info" type="submit" onclick="askFriend(event)">提交！</button>
                 </div>
             </div>
         </div>
@@ -102,15 +104,15 @@ function askFriend (event) {
         return;
     }
     if(!(name&&url&&image&&des)){
-        alert("信息填写不完整! ");
+        alert("请写完表单再提交! ");
         return;
     }
     if (!(TestUrl(url))){
-        alert("URL格式错误! 需要包含HTTP协议头! ");
+        alert("链接格式错误！需要以http://或https://开头！");
         return;
     }
     if (!(TestUrl(image))){
-        alert("图片URL格式错误! 需要包含HTTP协议头! ");
+        alert("图标格式错误！需要以http://或https://开头！");
         return;
     }
     event.target.classList.add('is-loading');
@@ -123,7 +125,7 @@ function askFriend (event) {
                 dataType: "jsonp",
                 async: false,
                 processData: false,
-                //timeout:10000, 
+                timeout:10000, 
                 complete: function (data) {
                     if(data.status==200){
                     $.ajax({
@@ -142,7 +144,7 @@ function askFriend (event) {
                         }
                     });}
                     else{
-                        alert("URL无法连通!");
+                        alert("链接无法连通！请确认链接是否无效。");
                     }
                     event.target.classList.remove('is-loading');
                 }
@@ -153,3 +155,4 @@ function askFriend (event) {
 </script>
 {% endraw %}
 {% endhideToggle %}
+
