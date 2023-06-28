@@ -3,7 +3,7 @@ date: '2022-11-25T14:40:32+08:00'
 title: 友情链接
 top_img: false
 type: link
-updated: 2023-6-28T18:19:43.772+8:0
+updated: 2023-6-28T18:31:22.879+8:0
 ---
 # 真正的友链
 
@@ -125,7 +125,7 @@ function askFriend (event) {
                 dataType: "jsonp",
                 async: false,
                 processData: false,
-                timeout:10000, 
+                //timeout:10000, 
                 complete: function (data) {
                     if(data.status==200){
                     $.ajax({
