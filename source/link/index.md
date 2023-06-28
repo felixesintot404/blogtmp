@@ -3,7 +3,7 @@ date: '2022-11-25T14:40:32+08:00'
 title: 友情链接
 top_img: false
 type: link
-updated: 2023-6-28T18:31:22.879+8:0
+updated: 2023-6-28T19:34:41.312+8:0
 ---
 # 真正的友链
 
@@ -52,7 +52,7 @@ updated: 2023-6-28T18:31:22.879+8:0
             <div class="field">
                 <label class="label">图标</label>
                 <div class="control has-icons-left">
-                    <input class="input" type="url" placeholder="您的网站图标(尽量为正圆形，如：https://www.example.com/favicon.ico)" id="friend-icon" required>
+                    <input class="input" type="url" placeholder="您的网站图标(尽量为正圆形，如：https://www.example.com/……)" id="friend-icon" required>
                     <span class="icon is-small is-left">
                         <i class="fas fa-image"></i>
                     </span>
