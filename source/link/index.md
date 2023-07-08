@@ -5,8 +5,6 @@ top_img: false
 type: link
 updated: 2023-6-28T19:34:41.312+8:0
 ---
-# 真正的友链
-
 {% raw %}
 
 <div id="qexo-friends"></div>

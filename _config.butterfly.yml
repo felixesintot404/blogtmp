@@ -12,7 +12,8 @@ menu:
   #   Music: /music/ || fas fa-music
   #   Movie: /movies/ || fas fa-video
   蒟蒻の狗叫: /daodao/ || fas fa-comment
-  友情链接: /link/ || fas fa-link 
+  友情链接: /link/ || fas fa-wifi
+  收藏的网站: /collect_website/ || fas fa-website
   关于: /about/ || fas fa-heart
 
 nav:
