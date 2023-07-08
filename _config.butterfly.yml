@@ -379,7 +379,7 @@ waline:
       nick: '昵称',
       mail: '邮箱',
       link: '你的网站',
-      placeholder: '请务必文明评论(tips:填写邮箱可以收到回复通知哦)',
+      placeholder: '请务必文明评论（tips：填写邮箱可以收到回复通知哦~~）',
       requiredMeta: [],
       mailError: '请填写正确的邮件地址',
       sofa: '快来抢占沙发~',
