@@ -379,7 +379,7 @@ waline:
     locale: {
       nick: '昵称',
       mail: '邮箱',
-      link: '你的网站（选填）',
+      link: '您的网站（选填）',
       reactionTitle: '选择您的反应：',
       reaction0: "赞！",
       reaction1: "踩！",
