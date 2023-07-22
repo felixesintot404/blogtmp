@@ -387,7 +387,7 @@ waline:
       reaction3: "困惑",
       reaction4: "啊这",
       reaction5: "无聊",
-      placeholder: "请务必文明评论\ntips：\n填写邮箱可以收到回复通知哦~~",
+      placeholder: "请务必文明评论\ntips：\n填写邮箱可以收到回复通知哦~~\n虽然直接评论也可以，但注册登录后，才可以点击头像设置专属标签哦~~",
       requiredMeta: [],
       mailError: '请填写正确的邮件地址',
       sofa: '快来抢占沙发~',
