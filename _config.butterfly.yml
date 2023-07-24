@@ -393,14 +393,14 @@ waline:
       mailError: '请填写正确的邮件地址',
       sofa: '快来抢占沙发~',
       }
-    search: false
+    search: true
     reaction: true
-    # emoji: [
-    #     'https://unpkg.com/@waline/emojis@1.1.0/alus',
-    #     'https://unpkg.com/@waline/emojis@1.1.0/bilibili',
-    #     'https://unpkg.com/@waline/emojis@1.1.0/weibo',
-    #     'https://unpkg.com/@waline/emojis@1.1.0/bmoji',
-    #     ]
+    emoji: [
+        'https://unpkg.com/@waline/emojis@1.1.0/alus',
+        'https://unpkg.com/@waline/emojis@1.1.0/bilibili',
+        'https://unpkg.com/@waline/emojis@1.1.0/weibo',
+        'https://unpkg.com/@waline/emojis@1.1.0/bmoji',
+        ]
 
 # utterances
 # https://utteranc.es/
