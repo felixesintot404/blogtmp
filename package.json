@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "show": "hexo clean & hexo s -p 2333",
-    "build": "hexo clean && hexo g && hexo algolia",
+    "build": "hexo g && hexo algolia",
     "s": "git add . && git commit -m'mid' && git push -f",
     "fast": "hexo g && hexo algolia && hexo d",
     "upd": "git pull && npm update -g --save && git add . && git commit -m'upd' && git push -f"
