@@ -5,9 +5,10 @@
 menu:
   首页: / || fas fa-home
   # 笔记索引: /suan-fa-zong-mu-lu/ || fas fa-list
-  归档: /archives/ || fas fa-archive
-  标签: /tags/ || fas fa-tags
-  分类: /categories/ || fas fa-folder-open
+  目录||fa-fw fas fa-compass:
+    归档: /archives/ || fas fa-archive
+    标签: /tags/ || fas fa-tags
+    分类: /categories/ || fas fa-folder-open
   # List||fas fa-list:
   #   Music: /music/ || fas fa-music
   #   Movie: /movies/ || fas fa-video
