@@ -7,9 +7,11 @@ tags:
 - 数论
 title: 【题解】[ABC270G] Sequence in mod P
 top_img: false
-updated: 2023-8-11T23:30:16.810+8:0
+updated: 2023-8-11T23:32:46.375+8:0
 ---
-[题目链接](https://www.luogu.com.cn/problem/AT_abc270_g)
+[题面](https://www.luogu.com.cn/problem/AT_abc270_g)
+
+[弱化版题面（甚至那题很多题解都过不去这题）](https://www.luogu.com.cn/problem/P3306)
 
 推导相当简单，只要等比数列求和一代入，就结束了。
 
