@@ -5,7 +5,7 @@ categories:
 date: '2023-08-11T23:30:16.482488+08:00'
 tags:
 - 数论
-title: 【题解】[ABC270G] Sequence in mod P
+title: 题解_[ABC270G] Sequence in mod P
 top_img: false
 updated: 2023-8-11T23:32:46.375+8:0
 ---
