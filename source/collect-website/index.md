@@ -14,9 +14,9 @@ date: 2023-07-08 22:15:13
 - class_name: 有用的网站
   class_desc:
   link_list:
-    - name: 聚合图床
-      link: https://www.superbed.cn/
-      avatar: https://www.superbed.cn/favicon.ico
+    - name: z4a图床
+      link: https://www.z4a.net/
+      avatar: https://www.z4a.net/content/images/system/default/favicon.png
       descr: 这个图床……至少不容易炸
     - name: UNPKG
       link: https://unpkg.com/
