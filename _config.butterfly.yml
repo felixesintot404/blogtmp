@@ -108,11 +108,11 @@ katex:
 # --------------------------------------
 
 # Favicon（網站圖標）
-favicon: https://pic.imgdb.cn/item/6496ea681ddac507ccdb0c27.png
+favicon: /img/avatar.png
 
 # Avatar (頭像)
 avatar:
-  img: https://pic.imgdb.cn/item/6496ea681ddac507ccdb0c27.png
+  img: /img/avatar.png
   effect: false
 
 # Disable all banner image
