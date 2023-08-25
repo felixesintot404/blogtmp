@@ -16,7 +16,7 @@ menu:
   友情链接: /link/ || fas fa-link
   收藏的网站: /collect-website/ || fas fa-wifi
   听音乐: https://music.felixesintot.top || fa-solid fa-music
-  帮助: /about/ || fas fa-heart
+  帮助: /help/ || fas fa-heart
 
 nav:
   logo: # image
