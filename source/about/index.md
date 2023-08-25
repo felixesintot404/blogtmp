@@ -44,8 +44,13 @@ int in(void)
 
 以下时间线展示了我自从建站以来左下角的歌单或歌手名（若为歌手名表示该歌手的 TOP50 歌曲）（id 为网易云音乐的歌单或歌手 id）：
 
+{% timeline 2022,blue %}
+<!-- timeline 12月20日 -->
+歌单：Terraria泰拉瑞亚BGM合集（id：360286071）
+<!-- endtimeline -->
+{% endtimeline %}
 {% timeline 2023,blue %}
 <!-- timeline 3月5日 -->
-歌手plum（id：49726260）
+歌手：plum（id：49726260）
 <!-- endtimeline -->
 {% endtimeline %}
