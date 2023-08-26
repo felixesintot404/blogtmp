@@ -3,7 +3,7 @@ date: '2022-10-24T12:23:18+08:00'
 title: 帮助
 top_img: false
 type: about
-updated: 2023-8-25T19:43:25.775+8:0
+updated: 2023-8-26T13:28:6.430+8:0
 ---
 # 这是哪？
 
@@ -42,15 +42,24 @@ int in(void)
 
 # 你左下角播的都是啥歌？
 
-以下时间线展示了我自从建站以来左下角的歌单或歌手名（若为歌手名表示该歌手的 TOP50 歌曲）（id 为网易云音乐的歌单或歌手 id）：
+以下时间线展示了我自2022以来左下角放的歌单或歌手名（若为歌手名表示该歌手的 TOP50 歌曲）（id 为网易云音乐的歌单或歌手 id）：
 
 {% timeline 2022,blue %}
+
 <!-- timeline 12月20日 -->
+
 歌单：Terraria泰拉瑞亚BGM合集（id：360286071）
+
 <!-- endtimeline -->
+
 {% endtimeline %}
 {% timeline 2023,blue %}
+
 <!-- timeline 3月5日 -->
+
 歌手：plum（id：49726260）
+
 <!-- endtimeline -->
+
 {% endtimeline %}
+
