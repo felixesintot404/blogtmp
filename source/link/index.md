@@ -3,7 +3,7 @@ date: '2022-11-25T14:40:32+08:00'
 title: 友情链接
 top_img: false
 type: link
-updated: 2023-6-28T19:34:41.312+8:0
+updated: 2023-9-2T14:20:52.51+8:0
 ---
 {% raw %}
 
@@ -97,6 +97,7 @@ function askFriend (event) {
     let url = $("#friend-link").val();
     let image = $("#friend-icon").val();
     let des = $("#friend-des").val();
+    alert("Never Gonna Give You Up");return ;
     if(!check){
         alert("请勾选\"我提交的不是无意义信息\"");
         return;
