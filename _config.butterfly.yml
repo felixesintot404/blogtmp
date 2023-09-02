@@ -397,7 +397,7 @@ waline:
       sofa: '快来抢占沙发~',
       }
     search: false
-    reaction: true
+    reaction: false
     emoji: [
         'https://unpkg.com/@waline/emojis@1.1.0/alus',
         'https://unpkg.com/@waline/emojis@1.1.0/bilibili',
