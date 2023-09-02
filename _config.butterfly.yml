@@ -378,7 +378,6 @@ waline:
   pageview: true
   option:
     recaptchaV3Key: 6Lf1cW4jAAAAAIrzxKrY90W84_F3X3mnw211EXUQ
-    login: force
     locale: {
       nick: '昵称',
       mail: '邮箱',
