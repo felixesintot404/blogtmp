@@ -19,7 +19,7 @@ menu:
   帮助: /help/ || fas fa-heart
 
 nav:
-  logo: # image
+  logo: https://felixesintot.top/img/avatar.png# image
   display_title: true
   fixed: false # fixed navigation bar
 
@@ -46,7 +46,7 @@ copy:
 #   icon: link || the description
 social:
   fab fa-github: https://github.com/felixesintot || Github
-  fas fa-user: https://www.luogu.com.cn/user/289608 || Luogu
+  https://z4a.net/images/2023/09/02/iucok80b.png: https://www.luogu.com.cn/user/289608 || Luogu
   # fab fa-github: https://github.com/xxxxx || Github
   # fas fa-envelope: mailto:xxxxxx@gmail.com || Email
 
