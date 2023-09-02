@@ -378,19 +378,20 @@ waline:
   pageview: true
   option:
     recaptchaV3Key: 6Lf1cW4jAAAAAIrzxKrY90W84_F3X3mnw211EXUQ
+    login: force
     locale: {
       nick: '昵称',
       mail: '邮箱',
       link: '您的网站（选填）',
-      reactionTitle: '选择您的反应：',
-      reaction0: "赞！",
-      reaction1: "踩！",
-      reaction2: "看看",
-      reaction3: "困惑",
-      reaction4: "啊这",
-      reaction5: "无聊",
+    #   reactionTitle: '选择您的反应：',
+    #   reaction0: "赞！",
+    #   reaction1: "踩！",
+    #   reaction2: "看看",
+    #   reaction3: "困惑",
+    #   reaction4: "啊这",
+    #   reaction5: "无聊",
       login: "登录/注册",
-      placeholder: "请务必文明评论\ntips：\n填写邮箱可以收到回复通知哦~~\n虽然直接评论也可以，但注册登录后，才可以点击头像设置专属标签哦~~",
+      placeholder: "请务必文明评论\n",
       requiredMeta: [],
       mailError: '请填写正确的邮件地址',
       sofa: '快来抢占沙发~',
