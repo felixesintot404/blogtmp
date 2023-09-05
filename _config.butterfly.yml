@@ -382,13 +382,13 @@ waline:
       nick: '昵称',
       mail: '邮箱',
       link: '您的网站（选填）',
-    #   reactionTitle: '选择您的反应：',
-    #   reaction0: "赞！",
-    #   reaction1: "踩！",
-    #   reaction2: "看看",
-    #   reaction3: "困惑",
-    #   reaction4: "啊这",
-    #   reaction5: "无聊",
+      reactionTitle: '选择您的反应：',
+      reaction0: "赞！",
+      reaction1: "踩！",
+      reaction2: "看看",
+      reaction3: "困惑",
+      reaction4: "啊这",
+      reaction5: "无聊",
       login: "登录/注册",
       placeholder: "请务必文明评论\n",
       requiredMeta: [],
@@ -396,7 +396,7 @@ waline:
       sofa: '快来抢占沙发~',
       }
     search: false
-    reaction: false
+    reaction: true
     emoji: [
         'https://unpkg.com/@waline/emojis@1.1.0/alus',
         'https://unpkg.com/@waline/emojis@1.1.0/bilibili',
