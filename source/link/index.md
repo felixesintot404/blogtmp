@@ -5,22 +5,27 @@ top_img: false
 type: link
 updated: 2023-9-2T14:20:52.51+8:0
 ---
-{% raw %}
-
-<div id="qexo-friends"></div>
-<link rel="stylesheet" href="https://unpkg.com/qexo-static@1.6.0/hexo/friends.css"/>
-
-<script src="https://unpkg.com/qexo-static@1.6.0/hexo/friends.js"></script>
-
-<script>loadQexoFriends("qexo-friends", "https://edit.felixesintot.top")</script>
-
-{% endraw %}
+{% flink %}
+- class_name:
+  class_desc: 
+  link_list:
+    - name: 5652 = 浅澪瀧依
+      link: https://fsft5652.gitee.io/
+      avatar: https://fsft5652.gitee.io/images/avatar.jpg
+      descr: felixesintot同学的博客
+    - name: cjwen6's blog
+      link: https://cjwen6.cn/
+      avatar: https://cjwen6.cn/favicon.ico
+      descr: 超级大巨佬的博客
+{% endflink %}
 {% hideToggle 点我添加友链！ %}
-请在评论区评论，给出：
-
-+ 博客的链接
-+ 一句介绍你博客的话
-
+请在评论区评论，按以下格式描述你的博客：
+```yaml
+    - name: 您的站点名
+      link: 您网站首页的链接
+      avatar: 您的网站图标的链接（尽量为正圆形）
+      descr: 请用简短地介绍您的站点
+```
 我将为您手动添加！
 
 {% endhideToggle %}
