@@ -19,7 +19,7 @@ date: 2023-07-08 22:15:13
       avatar: https://www.z4a.net/content/images/system/default/favicon.png
       descr: 这个图床……至少不容易炸
     - name: UNPKG
-      link: https://unpkg.com/
+      link: https://cdnjs.com/
       avatar: https://unpkg.com/favicon.ico
       descr: 看起来在中国比jsdeliver稳一点？
 {% endflink %}
