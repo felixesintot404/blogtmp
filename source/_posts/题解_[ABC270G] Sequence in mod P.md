@@ -9,6 +9,9 @@ title: 题解_[ABC270G] Sequence in mod P
 top_img: false
 updated: 2023-8-11T23:32:46.375+8:0
 ---
+
+atesttesttest
+
 [题面](https://www.luogu.com.cn/problem/AT_abc270_g)
 
 [弱化版题面（甚至那题很多题解都过不去这题）](https://www.luogu.com.cn/problem/P3306)
