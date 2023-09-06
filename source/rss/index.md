@@ -7,4 +7,4 @@ date: 2023-09-06 16:30:40
 ```plaintext
 https://felixesintot.top/atom.xml
 ```
-您可以搜索 RSS 的相关拓展或软件进行阅读。
+您可以搜索 RSS 的相关拓展或软件进行订阅。
