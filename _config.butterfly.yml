@@ -36,9 +36,9 @@ code_word_wrap: false
 # copy settings
 # copyright: Add the copyright information after copied content (複製的內容後面加上版權信息)
 copy:
-  enable: false
+  enable: true
   copyright:
-    enable: true
+    enable: false
     limit_count: 50
 
 # social settings (社交圖標設置)
@@ -895,10 +895,9 @@ note:
 # It may contain bugs and unstable, give feedback when you find the bugs.
 # https://github.com/MoOx/pjax
 pjax:
-  enable: false
+  enable: true
   exclude:
     - /daodao/
-    - /link/
     # - xxxx
     # - xxxx
 
